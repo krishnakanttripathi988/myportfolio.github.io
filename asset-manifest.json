@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/krishnakant.cf/static/css/main.75127a6c.css",
-    "main.js": "/krishnakant.cf/static/js/main.53b3af5e.js",
+    "main.js": "/krishnakant.cf/static/js/main.9b6c57ca.js",
     "static/media/krishna-banner.jpg": "/krishnakant.cf/static/media/krishna-banner.56bfa9d9938401b25ec7.jpg",
     "static/media/chess.jpg": "/krishnakant.cf/static/media/chess.b9a1f90c85df9d47a094.jpg",
     "static/media/profile-krishna.jpg": "/krishnakant.cf/static/media/profile-krishna.51aedde54486a0af373c.jpg",
@@ -12,10 +12,10 @@
     "static/media/portfolio.jpg": "/krishnakant.cf/static/media/portfolio.869c888256166e5f024b.jpg",
     "index.html": "/krishnakant.cf/index.html",
     "main.75127a6c.css.map": "/krishnakant.cf/static/css/main.75127a6c.css.map",
-    "main.53b3af5e.js.map": "/krishnakant.cf/static/js/main.53b3af5e.js.map"
+    "main.9b6c57ca.js.map": "/krishnakant.cf/static/js/main.9b6c57ca.js.map"
   },
   "entrypoints": [
     "static/css/main.75127a6c.css",
-    "static/js/main.53b3af5e.js"
+    "static/js/main.9b6c57ca.js"
   ]
 }
