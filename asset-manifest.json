@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/myportfolio.github.io/static/css/main.75127a6c.css",
-    "main.js": "/myportfolio.github.io/static/js/main.c8ba4215.js",
-    "static/media/krishna-banner.jpg": "/myportfolio.github.io/static/media/krishna-banner.56bfa9d9938401b25ec7.jpg",
-    "static/media/chess.jpg": "/myportfolio.github.io/static/media/chess.b9a1f90c85df9d47a094.jpg",
-    "static/media/profile-krishna.jpg": "/myportfolio.github.io/static/media/profile-krishna.51aedde54486a0af373c.jpg",
-    "static/media/medicalInventory.jpg": "/myportfolio.github.io/static/media/medicalInventory.8fa363f610b754a8f0ab.jpg",
-    "static/media/crisnat.png": "/myportfolio.github.io/static/media/crisnat.9ec12db40328e3d79893.png",
-    "static/media/voiceassistant.jpeg": "/myportfolio.github.io/static/media/voiceassistant.7922c8159b2dae2da3f7.jpeg",
-    "static/media/facemaskdetecttion.jpeg": "/myportfolio.github.io/static/media/facemaskdetecttion.428ac1ba52b5b09954c3.jpeg",
-    "static/media/portfolio.jpg": "/myportfolio.github.io/static/media/portfolio.869c888256166e5f024b.jpg",
-    "index.html": "/myportfolio.github.io/index.html",
-    "main.75127a6c.css.map": "/myportfolio.github.io/static/css/main.75127a6c.css.map",
-    "main.c8ba4215.js.map": "/myportfolio.github.io/static/js/main.c8ba4215.js.map"
+    "main.css": "/krishnakant.cf/static/css/main.75127a6c.css",
+    "main.js": "/krishnakant.cf/static/js/main.53b3af5e.js",
+    "static/media/krishna-banner.jpg": "/krishnakant.cf/static/media/krishna-banner.56bfa9d9938401b25ec7.jpg",
+    "static/media/chess.jpg": "/krishnakant.cf/static/media/chess.b9a1f90c85df9d47a094.jpg",
+    "static/media/profile-krishna.jpg": "/krishnakant.cf/static/media/profile-krishna.51aedde54486a0af373c.jpg",
+    "static/media/medicalInventory.jpg": "/krishnakant.cf/static/media/medicalInventory.8fa363f610b754a8f0ab.jpg",
+    "static/media/crisnat.png": "/krishnakant.cf/static/media/crisnat.9ec12db40328e3d79893.png",
+    "static/media/voiceassistant.jpeg": "/krishnakant.cf/static/media/voiceassistant.7922c8159b2dae2da3f7.jpeg",
+    "static/media/facemaskdetecttion.jpeg": "/krishnakant.cf/static/media/facemaskdetecttion.428ac1ba52b5b09954c3.jpeg",
+    "static/media/portfolio.jpg": "/krishnakant.cf/static/media/portfolio.869c888256166e5f024b.jpg",
+    "index.html": "/krishnakant.cf/index.html",
+    "main.75127a6c.css.map": "/krishnakant.cf/static/css/main.75127a6c.css.map",
+    "main.53b3af5e.js.map": "/krishnakant.cf/static/js/main.53b3af5e.js.map"
   },
   "entrypoints": [
     "static/css/main.75127a6c.css",
-    "static/js/main.c8ba4215.js"
+    "static/js/main.53b3af5e.js"
   ]
 }
