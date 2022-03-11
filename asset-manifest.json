@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.75127a6c.css",
-    "main.js": "/static/js/main.146880cc.js",
+    "main.js": "/static/js/main.d15b9824.js",
     "static/media/krishna-banner.jpg": "/static/media/krishna-banner.56bfa9d9938401b25ec7.jpg",
     "static/media/chess.jpg": "/static/media/chess.b9a1f90c85df9d47a094.jpg",
     "static/media/profile-krishna.jpg": "/static/media/profile-krishna.51aedde54486a0af373c.jpg",
@@ -12,10 +12,10 @@
     "static/media/portfolio.jpg": "/static/media/portfolio.869c888256166e5f024b.jpg",
     "index.html": "/index.html",
     "main.75127a6c.css.map": "/static/css/main.75127a6c.css.map",
-    "main.146880cc.js.map": "/static/js/main.146880cc.js.map"
+    "main.d15b9824.js.map": "/static/js/main.d15b9824.js.map"
   },
   "entrypoints": [
     "static/css/main.75127a6c.css",
-    "static/js/main.146880cc.js"
+    "static/js/main.d15b9824.js"
   ]
 }
