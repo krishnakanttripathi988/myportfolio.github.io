@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75127a6c.css",
+    "main.js": "/static/js/main.6f4535c7.js",
+    "static/media/krishna-banner.jpg": "/static/media/krishna-banner.56bfa9d9938401b25ec7.jpg",
+    "static/media/chess.jpg": "/static/media/chess.b9a1f90c85df9d47a094.jpg",
+    "static/media/profile-krishna.jpg": "/static/media/profile-krishna.51aedde54486a0af373c.jpg",
+    "static/media/medicalInventory.jpg": "/static/media/medicalInventory.8fa363f610b754a8f0ab.jpg",
+    "static/media/crisnat.png": "/static/media/crisnat.9ec12db40328e3d79893.png",
+    "static/media/voiceassistant.jpeg": "/static/media/voiceassistant.7922c8159b2dae2da3f7.jpeg",
+    "static/media/facemaskdetecttion.jpeg": "/static/media/facemaskdetecttion.428ac1ba52b5b09954c3.jpeg",
+    "static/media/portfolio.jpg": "/static/media/portfolio.869c888256166e5f024b.jpg",
+    "index.html": "/index.html",
+    "main.75127a6c.css.map": "/static/css/main.75127a6c.css.map",
+    "main.6f4535c7.js.map": "/static/js/main.6f4535c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75127a6c.css",
+    "static/js/main.6f4535c7.js"
+  ]
+}
