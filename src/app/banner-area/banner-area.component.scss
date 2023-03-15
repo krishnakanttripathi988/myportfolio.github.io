@@ -1,0 +1,39 @@
+.banner-image {
+  position: absolute;
+  top: 98px;
+  left: 826px;
+  width: 482px;
+  height: 643px;
+  border-radius: 0px 0px 300px 300px;
+}
+
+.banner-text {
+  position: absolute;
+  top: 322px;
+  left: 132px;
+  width: 502px;
+  font-family: Sarabun; /* Heading */
+  font-size: 52px;
+  line-height: 74px;
+  color: #323842FF; /* neutral-700 */
+}
+
+.banner-body {
+  position: absolute;
+  top: 482px;
+  left: 132px;
+  width: 502px;
+  font-family: Sarabun; /* Heading */
+  font-size: 16px;
+  line-height: 26px;
+  color: #323842FF; /* neutral-700 */
+}
+.banner-link {
+  position: absolute;
+  top: 572px;
+  left: 132px;
+  font-family: Open Sans; /* Body */
+  font-size: 18px;
+  line-height: 26px;
+  color: #E34D73FF; /* primary-500 */
+}
